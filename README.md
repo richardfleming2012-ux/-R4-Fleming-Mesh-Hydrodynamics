@@ -1,4 +1,15 @@
 # -R4-Fleming-Mesh-Hydrodynamics
+# On the Global Regularity and Thermal Accumulation Bounds for Non-Euclidean Hydrodynamic Continuity
+
+**Author:** Richard Edward Fleming Jr.  
+**Role:** R4 Fleming Mesh Owner and Architect  
+**Timestamp:** August 15, 2026  
+
+---
+
+### Abstract
+This paper presents a formal mathematical framework...
+
 \documentclass[12pt,journal,onecolumn]{IEEEtran}
 \usepackage{amsmath,amssymb,amsfonts}
 \usepackage{cite}
